@@ -1,2 +1,0 @@
-# Introduction
-The following is an attempt to create two models based on the cc view and the mlo view of the breast. This effort was the most succesful as it replicated the vgg16 model by introducing one layer with smaller number of filters (32) and by having a stride size of 2 across multiple layers. This effort was done on a smaller dataset of 1000 training images and 240 validation and a larger dataset of 5000 images and 999 images respectively. This effort produced the breast results of 89%-92% yet overfitting is still a problem for the minimized models. 
