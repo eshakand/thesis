@@ -1,0 +1,2 @@
+# Introduction
+The following is an attempt to create multiple modules that focus soley on smaller elements of the dataset such as left cc left mlo right cc and right mlo. This effort however was also abandoned as it was difficult to find distinguishing features between the left and right breast as such images are mirrored. 
